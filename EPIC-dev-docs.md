@@ -88,7 +88,7 @@ CommandBar is a surface that houses commands that operate on the content of the 
 
 **Details List**
 
-![](./images/Details-list.png)
+![](./images/details-list.png)
 
 A details list (DetailsList) is a robust way to display an information-rich collection of items, and allow people to sort, group, and filter the content. Use a details list when information density is critical. See [docs](https://learn.microsoft.com/en-us/power-platform/guidance/creator-kit/detailslist).
 
